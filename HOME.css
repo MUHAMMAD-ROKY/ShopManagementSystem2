@@ -1,3 +1,15 @@
+.subHeading1{
+    margin-left: 200px;
+    font-size: 30px;
+}
+.subLine1{
+    background-color: rgb(136, 255, 0);
+    margin-top: 10px ;
+    margin-left:350px;
+    width: 50%;
+    padding: 20px;
+    border-radius: 10px;
+}
 .bannerHeading1{
     font-size: 50px;
 }
